@@ -1,0 +1,30 @@
+*.class
+
+# package file
+*.war
+*.ear
+
+# kdiff3 ingore
+*.orig
+
+# maven ignore
+target/
+
+# eclipse ingnore
+.settings/
+.project
+.classpath
+
+# idea ignore
+.idea/
+/idea/
+*.ipr
+*.iml
+*.iws
+
+# tmp file
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
