@@ -28,3 +28,6 @@ target/
 *.diff
 *.patch
 *.tmp
+
+# alipay demo
+src/main/java/com/alipay/

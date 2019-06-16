@@ -29,7 +29,7 @@
         </javaTypeResolver>
 
 
-        <javaModelGenerator targetPackage="com.mmall.pojo.temp" targetProject="./src/main/java">
+        <javaModelGenerator targetPackage="com.mmall.pojo" targetProject="./src/main/java">
             <property name="enableSubPackages" value="false" />
             <property name="constructorBased" value="true"/>
             <property name="trimStrings" value="true" />
